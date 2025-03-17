@@ -165,6 +165,7 @@ dependencies = [
   "websocket-client==1.7.0",
   "widgetsnbextension==4.0.9",
   "xmltodict==0.13.0",
+  "Pyarrow",
 ]
 
 [project.urls]
