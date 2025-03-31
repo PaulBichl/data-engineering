@@ -1,0 +1,21 @@
+[
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-02-22T21:11:33:121623",
+        "motion_dedected": true,
+        "location":{
+            "building": "Building 1",
+            "floor": 3,
+            "Apartment": "Apartment 1"
+        }
+    },
+    {
+        "sensor_id": 2,
+        "timestamp":"2025-02-22T21:11:35:121623",
+        "motion_dedected": true,
+        "status":{
+            "grid_power": true,
+            "firmware": "v3.24.1"
+        }
+    }
+]

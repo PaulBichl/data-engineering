@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<AirQualityReadings>
+    <Reading timestamp="2025-03-25T14:10:52.568057" sensor_id="3" value="0"/>
+    <Reading timestamp="2025-03-25T14:10:52.570060" sensor_id="3" value="1"/>
+    <Reading timestamp="2025-03-25T14:12:08.160169" sensor_id="3" value="0"/>
+    <Reading timestamp="2025-03-25T14:12:08.163170" sensor_id="3" value="1"/>
+</AirQualityReadings>   
